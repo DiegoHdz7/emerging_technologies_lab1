@@ -1,0 +1,25 @@
+
+.cardForm {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3rem;
+    
+    padding: 1rem;
+    background-color: antiquewhite;
+    
+}
+
+.formButton{
+    margin: 1.5rem;
+    
+}
+
+.formBtnContainer{
+    
+
+}
+
+.formTextArea{
+    height: 200px;
+    vertical-align: top;
+}
